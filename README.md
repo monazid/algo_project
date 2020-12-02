@@ -7,7 +7,7 @@
 * [ABOUT THE PROJECT](#About-the-project)
 * [CODE](#Code)
 * [MOCKUP](#Mockup)
-* [CONTIBUTING](#Contributing)
+* [CONTIBUTION](#Contribution)
 
 
 
@@ -21,6 +21,60 @@ The solution we have thought about was an application, an application for everyo
 
 # CODE
 
+def main():
+    print('Welcome! YOU ARE NOT ALONE\n')
+    print('\nSign in if you want to stop bullying')
+    userdict={}
+    mail = input('\nenter you email')
+    password = input('\nenter you password')
+    userdict[mail]=password
+    print('\nChoose from the following options: \n1. You need to contact immediate help.'
+          '\n2. Information \n3. You are witness of bullying'
+          ' \n4. You suffer bullying ')
+    option = input('\nPlease enter the option number: ')
+    useroption=[]
+    useroption.append(option)
+    try:
+        option = int(option)
+        if 0 < option < 5:
+            if option ==1:
+                print('\nWe are here to help you!')
+                print('\nYou are not alone!')
+                print('\n Please call this number as soon as possible and someone will assist you : '
+                      '1-800-273-TALK (8255)')
+            elif option == 2:
+                print('\nYou will receive information about bullying')
+                print('\nWhich type of bullying do you want to have information about')
+                print('ºnChoose from the following options: \n1. Sexual Bullying'
+                      ' \n2. Prejudicial Bullying \n3. Verbal Bullying \n4. Relational Agressive \n5. Physical Bullying'
+                      '\n6. Cyberbullying ')
+                type = int(input('\nPlease enter the option number: '))
+                useroption.append(type)
+                if type == 1:
+                    print('Sexual bullying consists of repeated, harmful, and humiliating actions that target a person sexually. '
+                          'Examples include sexual name-calling, crude comments, vulgar gestures, uninvited touching, sexual propositioning, and pornographic materials.'
+                          ' A bully might make a crude comment about a peers appearance, attractiveness, sexual development, or sexual activity')
+                elif type == 2:
+                    print('Prejudicial bullying is based on prejudices tweens and teens have toward people of different races, religions, or sexual orientation.'
+                          ' This type of bullying can encompass all the other types of bullying.'
+                          ' When prejudicial bullying occurs, kids are targeting others who are different from them and singling them out.')
+                elif type == 3:
+                    print('Perpetrators of verbal bullying use words, statements, and name-calling to gain power and control over a target. '
+                          'Typically, verbal bullies will use relentless insults to belittle, demean, and hurt another person. '
+                          'They choose their targets based on the way they look, act, or behave. It’s also common for verbal bullies to target kids with special needs.')
+                elif type == 4:
+                    print('Relational bullying is a sneaky and insidious type of bullying that often goes unnoticed by parents and teachers. '
+                          'Sometimes referred to as emotional bullying, '
+                          'relational aggression is a type of social manipulation where tweens and teens try to hurt their peers or sabotage their social standing.')
+                elif type == 5:
+                    print('Physical bullying is the most obvious form of bullying. It occurs when kids use physical actions to gain power and control over their targets. '
+                          'Physical bullies tend to be bigger, stronger, and more aggressive than their peers. '
+                          'Examples of physical bullying include kicking, hitting, punching, slapping, shoving, and other physical attacks.')
+                elif type == 6:
+                    print('When a tween or a teen uses the Internet, a smartphone, or other technology to harass, threaten, embarrass, or target another person, it is cyberbullying. '
+                          'If an adult is involved in the harassment, it is called cyber-harassment or cyberstalking.')
+                else:
+                    print('Invalid Input. You have entered a number outside the range')
 
             elif option == 3:
                 print('\nYou will receive help on how to help the person who is suffering bullying')
@@ -212,6 +266,7 @@ The solution we have thought about was an application, an application for everyo
 
 main()
 
+              
 # MOCKUP
 
 Immediate help for mental breakdowns:
@@ -228,7 +283,7 @@ Description : I am having a mental breakdown and need immediate help.
 
 ![mock-up](https://user-images.githubusercontent.com/74672340/100921367-c192b980-34dc-11eb-967c-994e4101e37b.png)
 
-# CONTRIBUTING
+# CONTRIBUTION
 Students of IE University
 * Patricia Cano
 * Greta Ynglada
