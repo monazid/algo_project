@@ -8,6 +8,7 @@
 * [CODE](#Code)
 * [MOCKUP](#Mockup)
 * [CONTIBUTION](#Contribution)
+* [CONTACT](#Contact)
 
 
 
@@ -291,3 +292,10 @@ Students of IE University
 * Mónica Azcue
 * Javier Elena
 * Ximeng Zheng
+
+# CONTACT
+* Patricia Cano : pcano.ieu2019@student.ie.edu
+* Greta Ynglada : gynglada.ieu2019@student.ie.edu
+* Mónica Azcue : mazcue.ieu2019@student.ie.edu
+* Javier Elena : jelena.ieu2019@student.ie.edu
+* Ximeng Zheng: xzheng.ieu2019@student.ie.edu
