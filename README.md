@@ -3,6 +3,8 @@ README file of the final project ADS
 
 ## ABOUT THE PROJECT 
 
+### CODE
+'''
 def main():
     print('Welcome! YOU ARE NOT ALONE\n')
     print('\nSign in if you want to stop bullying')
@@ -248,7 +250,8 @@ def main():
 
 main()
 
-### CONTRIBUTING
+'''
+#### CONTRIBUTING
 Students of IE University
 Patricia Cano
 Greta Ynglada
