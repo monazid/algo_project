@@ -3,8 +3,10 @@ README file of the final project ADS
 
 ## ABOUT THE PROJECT 
 
-Unfortunately for us, we are living in an era with many problems, from a worldwide pandemic caused due to the COVID-19 virus to the increase of racism in the USA and overall everywhere. With these problems and many more we tend to forget others that may have the same importance as those mentioned before, and one of those is BULLYING. 
+Unfortunately for us, we are living in an era with many problems, from a worldwide pandemic caused due to the COVID-19 virus to the increase of racism in the USA and overall everywhere. With these problems and many more we tend to forget others that may have the same importance as those mentioned before, and one of those is BULLYING.
+
 Even though we may not hear about it much, bullying has been increasing at an enormous rate during the last years mainly due to the advances in technology and a lot of kids and children having phones earlier which is an incentive for bullying to start (cyber bullying). But there are many more types of bullying in the world, more concretely 6, and they are causing missery to young kids and in the worse casea suicide. That is exactly why we as a group have decided to take action into this matter and encourage everyone to do it with us.
+
 The solution we have thought about was an application, an application for everyone, curious people, witnesses and victims. Our application has been created so that everyone can understand what bullying really is and how big of a deal it represents to society as well as providing help to those lost kids suffering bullying or witnesses who do not know how to take action.
 
 ### CODE
