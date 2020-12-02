@@ -3,10 +3,10 @@ README file of the final project ADS
 
 # TABLE OF CONTENT
 
-* [STOP IT] (# Stop it)
-   * [ABOUT THE PROJECT] (# About the project)
+* [STOP IT] (#Stop-it)
+   * [ABOUT THE PROJECT] (#About-the-project)
    * [CODE] (#Code)
-   * [MOCKUP] (# Mockup)
+   * [MOCKUP] (#Mockup)
    * [CONTIBUTING] (#Contributing)
 
 
