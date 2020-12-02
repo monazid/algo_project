@@ -1,5 +1,6 @@
 # STOP IT
-README file of the final project ADS
+
+![logo](https://user-images.githubusercontent.com/74672340/100925126-dd4c8e80-34e1-11eb-8a4a-5c82ed452ffa.png)
 
 # TABLE OF CONTENT
 
