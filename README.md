@@ -24,6 +24,7 @@ The solution we have thought about was an application, an application for everyo
 
 def main():
     
+
     print('Welcome! YOU ARE NOT ALONE\n')
     print('\nSign in if you want to stop bullying')
     userdict={}
@@ -263,7 +264,6 @@ def main():
             print('Invalid Input. You have entered a number outside the range')
     except ValueError:
         print('You have entered a non numeric character')
-
 
 main()
 
