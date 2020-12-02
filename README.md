@@ -21,7 +21,9 @@ The solution we have thought about was an application, an application for everyo
 
 # CODE
 
+
 def main():
+    
     print('Welcome! YOU ARE NOT ALONE\n')
     print('\nSign in if you want to stop bullying')
     userdict={}
@@ -69,13 +71,12 @@ def main():
                 elif type == 5:
                     print('Physical bullying is the most obvious form of bullying. It occurs when kids use physical actions to gain power and control over their targets. '
                           'Physical bullies tend to be bigger, stronger, and more aggressive than their peers. '
-                          'Examples of physical bullying include kicking, hitting, punching, slapping, shoving, and other physical attacks.')
-                elif type == 6:
+                          'Examples of physical bullying include kicking, hitting, punching, slapping, shoving, and other physical attacks.
+            elif type == 6:
                     print('When a tween or a teen uses the Internet, a smartphone, or other technology to harass, threaten, embarrass, or target another person, it is cyberbullying. '
                           'If an adult is involved in the harassment, it is called cyber-harassment or cyberstalking.')
                 else:
                     print('Invalid Input. You have entered a number outside the range')
-
             elif option == 3:
                 print('\nYou will receive help on how to help the person who is suffering bullying')
                 print('\nWhich type of bullying have you witnessed')
