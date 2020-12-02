@@ -3,8 +3,8 @@ README file of the final project ADS
 
 ## TABLE OF CONTENT
 
-* About the project
-* Code
+* About the project 
+* Code 
 * Mockup
 * Contributions
 ### ABOUT THE PROJECT 
