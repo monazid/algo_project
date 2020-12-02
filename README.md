@@ -214,9 +214,22 @@ main()
 
 # MOCKUP
 
+
+* Immediate help for mental breakdowns:
+
+Description : I am having a mental breakdown and need immediate help.
+
+System shows the option to sign in → User signs in creating an account with their personal email address and personal information.
+
+System asks the user →  If the user needs immediate help, wants information about the matter in hand (bullying), if he is a witness of the problem, or if he is a victim of bullying. -- the user selects immediate help.
+
+System provides a 24hr mental health help telephone number which the user can contact immediately and will give him help.
+
+
+
 ![mock-up](https://user-images.githubusercontent.com/74672340/100921367-c192b980-34dc-11eb-967c-994e4101e37b.png)
 
-#CONTRIBUTING
+# CONTRIBUTING
 Students of IE University
 * Patricia Cano
 * Greta Ynglada
