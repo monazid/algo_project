@@ -1,7 +1,13 @@
 # STOP IT
 README file of the final project ADS
 
-## ABOUT THE PROJECT 
+## TABLE OF CONTENT
+
+* About the project
+* Code
+* Mockup
+*Contributions
+### ABOUT THE PROJECT 
 
 Unfortunately for us, we are living in an era with many problems, from a worldwide pandemic caused due to the COVID-19 virus to the increase of racism in the USA and overall everywhere. With these problems and many more we tend to forget others that may have the same importance as those mentioned before, and one of those is BULLYING.
 
@@ -9,7 +15,7 @@ Even though we may not hear about it much, bullying has been increasing at an en
 
 The solution we have thought about was an application, an application for everyone, curious people, witnesses and victims. Our application has been created so that everyone can understand what bullying really is and how big of a deal it represents to society as well as providing help to those lost kids suffering bullying or witnesses who do not know how to take action.
 
-### CODE
+#### CODE
 
 
             elif option == 3:
@@ -202,11 +208,11 @@ The solution we have thought about was an application, an application for everyo
 
 main()
 
-#### MOCKUP
+##### MOCKUP
 
 https://user-images.githubusercontent.com/74672340/100921367-c192b980-34dc-11eb-967c-994e4101e37b.png
 
-##### CONTRIBUTING
+###### CONTRIBUTING
 Students of IE University
 * Patricia Cano
 * Greta Ynglada
