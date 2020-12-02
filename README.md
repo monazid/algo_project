@@ -6,7 +6,7 @@ README file of the final project ADS
 * About the project
 * Code
 * Mockup
-*Contributions
+* Contributions
 ### ABOUT THE PROJECT 
 
 Unfortunately for us, we are living in an era with many problems, from a worldwide pandemic caused due to the COVID-19 virus to the increase of racism in the USA and overall everywhere. With these problems and many more we tend to forget others that may have the same importance as those mentioned before, and one of those is BULLYING.
