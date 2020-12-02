@@ -206,8 +206,8 @@ https://user-images.githubusercontent.com/74672340/100921367-c192b980-34dc-11eb-
 
 ##### CONTRIBUTING
 Students of IE University
-Patricia Cano
-Greta Ynglada
-Mónica Azcue
-Javier Elena
-Ximeng Zheng
+* Patricia Cano
+* Greta Ynglada
+* Mónica Azcue
+* Javier Elena
+* Ximeng Zheng
